@@ -1,0 +1,12 @@
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\bin\Debug\net6.0\MyBlazorApp.Shared.deps.json
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\bin\Debug\net6.0\MyBlazorApp.Shared.dll
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\bin\Debug\net6.0\MyBlazorApp.Shared.pdb
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\MyBlazorApp.Shared.csproj.AssemblyReference.cache
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\MyBlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\MyBlazorApp.Shared.AssemblyInfoInputs.cache
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\MyBlazorApp.Shared.AssemblyInfo.cs
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\MyBlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\MyBlazorApp.Shared.dll
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\refint\MyBlazorApp.Shared.dll
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\MyBlazorApp.Shared.pdb
+D:\ASP .NET CORE\MyBlazorApp\MyBlazorApp\Shared\obj\Debug\net6.0\ref\MyBlazorApp.Shared.dll

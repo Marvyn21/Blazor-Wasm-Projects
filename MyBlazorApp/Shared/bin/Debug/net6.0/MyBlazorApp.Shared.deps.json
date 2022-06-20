@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyBlazorApp.Shared/1.0.0": {
+        "runtime": {
+          "MyBlazorApp.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBlazorApp.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
